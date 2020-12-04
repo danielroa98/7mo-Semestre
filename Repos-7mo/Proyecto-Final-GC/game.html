@@ -1,0 +1,67 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Game</title>
+
+<script src="./libs/jquery-3.4.1/jquery-3.4.1.min.js"></script>
+<script src="./libs/jquery-ui/jquery-ui.js"></script>
+<script src="./libs/three.js/three.js"></script>
+<script src="./libs/three.js/controls/OrbitControls.js"></script>
+
+<script src="../libs/three.js/loaders/OBJLoader.js"></script>
+<script src="../libs/three.js/loaders/MTLLoader.js"></script>
+<script src="../libs/three.js/utils/promiseLoader.js"></script>
+<script src="../libs/keyframe.js/keyframe.js"></script>
+
+<script src="game.js"></script>
+
+<script id="fragmentShader" type="x-shader/x-fragment">
+	uniform float time;
+	uniform sampler2D noiseTexture;
+	uniform sampler2D glowTexture;
+	varying vec2 texCoord;
+
+	void main( void ) {
+		vec2 translation = (texCoord * 10.0) + vec2( 0.1, 1 ) * time; 
+
+		
+		vec4 color = texture2D( glowTexture, translation );
+		vec4 newColor = vec4(color.r, color.g, color.b, 0.6);
+		
+		gl_FragColor = newColor;
+	}
+</script>
+
+<script id="vertexShader" type="x-shader/x-vertex">
+	varying vec2 texCoord;
+
+	void main() {
+		texCoord = uv;
+		vec4 mvPosition = modelViewMatrix * vec4( position, 1.0 );
+		gl_Position = projectionMatrix * mvPosition;
+	}
+</script>
+
+<script type="text/javascript">
+	$(document).ready(() => {		
+		let canvas = document.getElementById("webglcanvas");
+		canvas.width = window.innerWidth - 20;
+		canvas.height = (window.innerWidth)/2.25
+
+		initControls();
+
+		// create the scene
+		createScene(canvas);
+		
+		// Run the run loop
+		run();
+	});
+</script>
+
+</head>
+<body>
+	<div id="container">
+		<canvas id="webglcanvas"></canvas>
+	</div>
+</body>
+</html>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:Tema_1_Apuntadores"
+      name = "Tema_1_Apuntadores">
+      <FileRef
+         location = "group:apuntadores/apuntadores.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:estructuras_y_uniones/estructuras_y_uniones.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:enumeraciones/enumeraciones.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:longitud_cadena/longitud_cadena.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:invertir_cadena/invertir_cadena.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:copiar_cadena/copiar_cadena.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:biblioteca/biblioteca.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:menu_opciones/menu_opciones.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:ordenamiento/ordenamiento.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:ordenamiento_generico/ordenamiento_generico.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:ejercicio_personas/ejercicio_personas.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:matriz/matriz.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:apuntadores_a_funciones/apuntadores_a_funciones.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:Tema_3_Procesos"
+      name = "Tema_3_Procesos">
+      <FileRef
+         location = "group:factorial_sockets/factorial_sockets.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:creando_procesos/creando_procesos.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:argumentos_cortos/argumentos_cortos.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:argumentos_largos/argumentos_largos.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:pipe/pipe.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:popen/popen.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:fifo_write/fifo_write.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:fifo_read/fifo_read.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:factorial_pipe/factorial_pipe.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:sockets/sockets.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:sockets_varios_clientes/sockets_varios_clientes.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:ejemplo_factorial/ejemplo_factorial.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:ejemplo_integral/ejemplo_integral.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:Tema_4_Sen&#x303;ales"
+      name = "Tema_4_Sen&#x303;ales">
+      <FileRef
+         location = "group:ejercicio_4/ejercicio_4.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:ejercicio_2/ejercicio_2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:ejercicio_1/ejercicio_1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:ejemplo_SIGINT/ejemplo_SIGINT.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:sigaction/sigaction.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:restablecer_manejador/restablecer_manejador.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:conjunto_sen&#x303;ales/conjunto_sen&#x303;ales.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:bloquear_conjunto_sen&#x303;ales/bloquear_conjunto_sen&#x303;ales.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:bloquear_alarm/bloquear_alarm.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:varios_manejadores_SIGINT/varios_manejadores_SIGINT.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:varias_sen&#x303;ales/varias_sen&#x303;ales.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:raise/raise.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:sigaction_flags/sigaction_flags.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:Tema_5_Concurrencia"
+      name = "Tema_5_Concurrencia">
+      <FileRef
+         location = "group:problema_blancanieves_y_enanitos/problema_blancanieves_y_enanitos.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:problema_ban&#x303;o_mujeres_hombres/problema_ban&#x303;o_mujeres_hombres.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:problema_fumadores/problema_fumadores.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:problema_babuinos_sema&#x301;foros/problema_babuinos_sema&#x301;foros.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:problema_babuinos/problema_babuinos.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:productor_consumidor_sema&#x301;foros/productor_consumidor_sema&#x301;foros.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:ejemplo_pthread/ejemplo_pthread.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:problema_con_variable_global/problema_con_variable_global.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:solucion_problema_variable_global/solucion_problema_variable_global.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:problema_inversion_mutexes/problema_inversion_mutexes.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:solucion_problema_mutexes_inversos/solucion_problema_mutexes_inversos.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:productor_consumidor/productor_consumidor.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:multiples_productores_consumidores/multiples_productores_consumidores.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:ejemplo_propiedades_hilos/ejemplo_propiedades_hilos.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:ejemplo_sen&#x303;ales_entre_hilos/ejemplo_sen&#x303;ales_entre_hilos.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:Tema_6_Paralelismo"
+      name = "Tema_6_Paralelismo">
+      <FileRef
+         location = "group:pthread_simd/pthread_simd.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:omp_parallel/omp_parallel.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:mpi_basico/mpi_basico.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:mpi_suma_reduccion/mpi_suma_reduccion.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:mpi_suma_reduccion_openmp/mpi_suma_reduccion_openmp.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>

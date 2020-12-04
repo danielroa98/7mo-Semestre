@@ -1,0 +1,484 @@
+Sanitario vacio
+-> Llega una mujer (1 en espera).
+
+ABRE ZONA CRÍTICA 1
+-> Entra una mujer (0 en espera).
+SANITARIO OCUPADO POR MUJERES
+-> Llega un hombre (1 en espera).
+
+CIERRA ZONA CRÍTICA 1
+-> Llega una mujer (1 en espera).
+
+ABRE ZONA CRÍTICA 1
+-> Entra una mujer (0 en espera).
+
+CIERRA ZONA CRÍTICA 1
+-> Llega una mujer (1 en espera).
+
+ABRE ZONA CRÍTICA 1
+-> Entra una mujer (0 en espera).
+
+CIERRA ZONA CRÍTICA 1
+-> Llega una mujer (1 en espera).
+
+ABRE ZONA CRÍTICA 1
+-> Entra una mujer (0 en espera).
+
+CIERRA ZONA CRÍTICA 1
+-> Llega una mujer (1 en espera).
+
+ABRE ZONA CRÍTICA 1
+-> Entra una mujer (0 en espera).
+
+CIERRA ZONA CRÍTICA 1
+
+ABRE ZONA CRÍTICA 1.1
+Sale una mujer.->
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+Sale una mujer.->
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+Sale una mujer.->
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+Sale una mujer.->
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+Sale una mujer.->
+Sanitario vacio.
+
+CIERRA ZONA CRÍTICA 1.1
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 0
+DENTRO DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 0
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de

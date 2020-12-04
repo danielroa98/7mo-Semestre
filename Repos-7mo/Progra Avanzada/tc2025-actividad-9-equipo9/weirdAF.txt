@@ -1,0 +1,228 @@
+Sanitario vacio
+
+ABRE ZONA CRÍTICA 1.1
+-> Llega una mujer (1 en espera).
+-> Llega un hombre (1 en espera).
+
+ABRE ZONA CRÍTICA 2
+
+Afuera del if de hombre_quiere_entrar
+El valor de sanitario es de: 0
+El valor de hombres_en_banio es de 0
+Dentro del if de hombre_quiere_entrar
+-> Entra un hombre (0 en espera).
+Valor actual de hombres_en_banio es 1SANITARIO OCUPADO POR HOMBRES
+FUERA DE LA REGIÓN CRÍTICA 2.1
+Valor actual de hombres_en_banio es 1
+
+CIERRA ZONA CRÍTICA 2
+-> Llega un hombre (1 en espera).
+
+ABRE ZONA CRÍTICA 2
+
+Afuera del if de hombre_quiere_entrar
+El valor de sanitario es de: 2
+El valor de hombres_en_banio es de 1
+Dentro del if de hombre_quiere_entrar
+-> Entra un hombre (0 en espera).
+Valor actual de hombres_en_banio es 2
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+
+CIERRA ZONA CRÍTICA 2
+-> Llega un hombre (1 en espera).
+
+ABRE ZONA CRÍTICA 2
+
+Afuera del if de hombre_quiere_entrar
+El valor de sanitario es de: 2
+El valor de hombres_en_banio es de 2
+Dentro del if de hombre_quiere_entrar
+-> Entra un hombre (0 en espera).
+Valor actual de hombres_en_banio es 3
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+
+CIERRA ZONA CRÍTICA 2
+-> Llega un hombre (1 en espera).
+
+ABRE ZONA CRÍTICA 2
+
+Afuera del if de hombre_quiere_entrar
+El valor de sanitario es de: 2
+El valor de hombres_en_banio es de 3
+Dentro del if de hombre_quiere_entrar
+-> Entra un hombre (0 en espera).
+Valor actual de hombres_en_banio es 4
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+
+CIERRA ZONA CRÍTICA 2
+-> Llega un hombre (1 en espera).
+
+ABRE ZONA CRÍTICA 2
+
+Afuera del if de hombre_quiere_entrar
+El valor de sanitario es de: 2
+El valor de hombres_en_banio es de 4
+Dentro del if de hombre_quiere_entrar
+-> Entra un hombre (0 en espera).
+Valor actual de hombres_en_banio es 5
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+
+CIERRA ZONA CRÍTICA 2
+
+ABRE ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 5
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+Sale un hombre.->
+Valor actual de i es: 1
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 1
+
+ABRE ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 4
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+Sale un hombre.->
+Valor actual de i es: 2
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 2
+
+ABRE ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 3
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+Sale un hombre.->
+Valor actual de i es: 3
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 3
+
+ABRE ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 2
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+Sale un hombre.->
+Valor actual de i es: 4
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 4
+
+ABRE ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 1
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+Sale un hombre.->
+Valor actual de i es: 5Sanitario vacio.
+
+CIERRA ZONA CRÍTICA 2.1
+Cantidad de hombres en el baño: 5
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+
+CIERRA ZONA CRÍTICA 1.1
+
+ABRE ZONA CRÍTICA 1.1
+
+CIERRA ZONA CRÍTI

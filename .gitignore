@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/c,visualstudiocode,node
-# Edit at https://www.toptal.com/developers/gitignore?templates=c,visualstudiocode,node
+# Created by https://www.toptal.com/developers/gitignore/api/c,node,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=c,node,visualstudiocode
 
 ### C ###
 # Prerequisites
@@ -130,9 +130,11 @@ typings/
 # dotenv environment variables file
 .env
 .env.test
+.env*.local
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
+.parcel-cache
 
 # Next.js build output
 .next
@@ -167,14 +169,13 @@ dist
 
 ### VisualStudioCode ###
 .vscode/*
-!.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
-!.vscode/extensions.json
 *.code-workspace
 
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
+.ionide
 
-# End of https://www.toptal.com/developers/gitignore/api/c,visualstudiocode,node
+# End of https://www.toptal.com/developers/gitignore/api/c,node,visualstudiocode

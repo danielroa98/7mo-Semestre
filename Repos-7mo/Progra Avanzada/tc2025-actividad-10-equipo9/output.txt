@@ -1,0 +1,84 @@
+(R) Robot 94 va a entrar a la tienda 0
+(C) El robot 94 entró y actualizó su peso de 10 a 12	<------>	La tienda tiene una capacidad de máxima de 26 y su actual es de 10
+(R) Robot 197 va a entrar a la tienda 1
+(C) El robot 197 entró y actualizó su peso de 10 a 11	<------>	La tienda tiene una capacidad de máxima de 25 y su actual es de 10
+(R) Robot 330 va a entrar a la tienda 0
+(C) El robot 330 entró y actualizó su peso de 10 a 11	<------>	La tienda tiene una capacidad de máxima de 26 y su actual es de 20
+(R) Robot 376 va a entrar a la tienda 0
+(R) Robot 376 no va a entrar a la tienda 0 por que la tienda no lo aguanta.
+El peso del robot es de 10 y la capacidad de la tienda es de 26
+(R) Robot 139 va a entrar a la tienda 0
+(R) Robot 139 no va a entrar a la tienda 0 por que la tienda no lo aguanta.
+El peso del robot es de 10 y la capacidad de la tienda es de 26
+(S) El robot 94 salió de la tienda 0
+El peso de la tienda descendió a 10
+(S) El robot 197 salió de la tienda 1
+El peso de la tienda descendió a 0
+
+(R) Robot 94 completó sus compras
+(C) El robot 139 entró y actualizó su peso de 10 a 12	<------>	La tienda tiene una capacidad de máxima de 26 y su actual es de 20
+(S) El robot 330 salió de la tienda 0
+El peso de la tienda descendió a 10
+(R) Robot 330 va a entrar a la tienda 1
+(C) El robot 330 entró y actualizó su peso de 11 a 12	<------>	La tienda tiene una capacidad de máxima de 25 y su actual es de 11
+(R) Robot 197 va a entrar a la tienda 2
+(C) El robot 197 entró y actualizó su peso de 11 a 13	<------>	La tienda tiene una capacidad de máxima de 25 y su actual es de 11
+(C) El robot 376 entró y actualizó su peso de 10 a 12	<------>	La tienda tiene una capacidad de máxima de 26 y su actual es de 20
+(S) El robot 330 salió de la tienda 1
+El peso de la tienda descendió a 0
+(R) Robot 330 va a entrar a la tienda 5
+(C) El robot 330 entró y actualizó su peso de 12 a 13	<------>	La tienda tiene una capacidad de máxima de 27 y su actual es de 12
+(S) El robot 197 salió de la tienda 2
+El peso de la tienda descendió a 0
+(R) Robot 197 va a entrar a la tienda 4
+(C) El robot 197 entró y actualizó su peso de 13 a 15	<------>	La tienda tiene una capacidad de máxima de 26 y su actual es de 13
+(S) El robot 139 salió de la tienda 0
+El peso de la tienda descendió a 10
+(R) Robot 139 va a entrar a la tienda 1
+(C) El robot 139 entró y actualizó su peso de 12 a 13	<------>	La tienda tiene una capacidad de máxima de 25 y su actual es de 12
+(S) El robot 376 salió de la tienda 0
+El peso de la tienda descendió a 0
+(R) Robot 376 va a entrar a la tienda 1
+(C) El robot 376 entró y actualizó su peso de 12 a 13	<------>	La tienda tiene una capacidad de máxima de 25 y su actual es de 24
+(S) El robot 330 salió de la tienda 5
+El peso de la tienda descendió a 0
+(S) El robot 197 salió de la tienda 4
+El peso de la tienda descendió a 0
+
+(R) Robot 330 completó sus compras
+(R) Robot 197 va a entrar a la tienda 6
+(C) El robot 197 entró y actualizó su peso de 15 a 17	<------>	La tienda tiene una capacidad de máxima de 24 y su actual es de 15
+(S) El robot 139 salió de la tienda 1
+El peso de la tienda descendió a 12
+(R) Robot 139 va a entrar a la tienda 2
+(C) El robot 139 entró y actualizó su peso de 13 a 15	<------>	La tienda tiene una capacidad de máxima de 25 y su actual es de 13
+(S) El robot 376 salió de la tienda 1
+El peso de la tienda descendió a 0
+(R) Robot 376 va a entrar a la tienda 2
+(R) Robot 376 no va a entrar a la tienda 2 por que la tienda no lo aguanta.
+El peso del robot es de 13 y la capacidad de la tienda es de 25
+(S) El robot 197 salió de la tienda 6
+El peso de la tienda descendió a 0
+
+(R) Robot 197 completó sus compras
+(S) El robot 139 salió de la tienda 2
+El peso de la tienda descendió a 0
+(R) Robot 139 va a entrar a la tienda 4
+(C) El robot 139 entró y actualizó su peso de 15 a 17	<------>	La tienda tiene una capacidad de máxima de 26 y su actual es de 15
+(C) El robot 376 entró y actualizó su peso de 13 a 14	<------>	La tienda tiene una capacidad de máxima de 25 y su actual es de 13
+(S) El robot 139 salió de la tienda 4
+El peso de la tienda descendió a 0
+(R) Robot 139 va a entrar a la tienda 5
+(C) El robot 139 entró y actualizó su peso de 17 a 19	<------>	La tienda tiene una capacidad de máxima de 27 y su actual es de 17
+(S) El robot 376 salió de la tienda 2
+El peso de la tienda descendió a 0
+
+(R) Robot 376 completó sus compras
+(S) El robot 139 salió de la tienda 5
+El peso de la tienda descendió a 0
+(R) Robot 139 va a entrar a la tienda 6
+(C) El robot 139 entró y actualizó su peso de 19 a 21	<------>	La tienda tiene una capacidad de máxima de 24 y su actual es de 19
+(S) El robot 139 salió de la tienda 6
+El peso de la tienda descendió a 0
+
+(R) Robot 139 completó sus compras
